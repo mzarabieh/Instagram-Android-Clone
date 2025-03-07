@@ -1,6 +1,5 @@
 # Instagram Android Clone
 
-<img alt="Instagram Logo" src="./assets/images/header-logo.png" width="60%">
 
 <div>
 <h4>Technologies Used</h4>
