@@ -95,14 +95,3 @@ npx expo run:android
 npm start
 ```
 
-7. **Select the emulator**
-
-   - Press “a” for the Android emulator.
-   - Press “i” for the iOS emulator.
-
-## Where to find me?
-
-<div>
-  <a href="https://github.com/hernanhawryluk"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github"></a>
-  <a href="https://www.linkedin.com/in/hernan-hawryluk"><img alt="GitHub" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-</div>
