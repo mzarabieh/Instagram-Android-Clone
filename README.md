@@ -34,24 +34,6 @@ A feature-rich Instagram clone built using **Java** and **Android Studio**, with
 
 ---
 
-## 📲 Download the APK for Android Devices
-
-- [![Download APK for Android](https://img.shields.io/badge/Google%20Drive-instagram--clone--app.apk-blue?logo=googledrive)](https://drive.google.com/file/d/15ahphglkz-yoSmbGTq201YoZ-xWay-pn/view?usp=drive_link)
-
----
-
-## Screenshots
-
-<div align="center">
-  <img src="./assets/screenshots/LoginScreen.png" width="32%">
-  <img src="./assets/screenshots/HomeScreen.png" width="32%">
-  <img src="./assets/screenshots/PostsScreen.png" width="32%">
-  <img src="./assets/screenshots/SearchScreen.png" width="32%">
-  <img src="./assets/screenshots/NewPostScreen.png" width="32%">
-  <img src="./assets/screenshots/ProfileScreen.png" width="32%">
-</div>
-
----
 
 ## Instructions for Running on an Emulator
 
@@ -98,14 +80,7 @@ adb shell am start -n com.yourapp/.MainActivity
 - Implementing Stories with swipeable interactions
 - Improving UI animations for a smoother experience
 
----
 
-## 💬 Contact
-**Sooa Jo**  
-[GitHub Profile](https://github.com/yourusername)  
-[LinkedIn](https://linkedin.com/in/yourprofile)
-
----
 
 ## 📜 License
 This project is licensed under the **MIT License**.
