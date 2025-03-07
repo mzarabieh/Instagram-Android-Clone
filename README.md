@@ -1,6 +1,5 @@
 # instagram-clone-app
 
-<img alt="Instagram Logo" src="./assets/images/header-logo.png" width="60%">
 
 <div>
 <h4>Language options</h4>
@@ -38,28 +37,7 @@ Fully functional Instagram replica built in React Native, showcasing my skills a
 
 - [![Download APK for Android](https://img.shields.io/badge/Google%20Drive-instagram--clone--app.apk-blue?logo=googledrive)](https://drive.google.com/file/d/15ahphglkz-yoSmbGTq201YoZ-xWay-pn/view?usp=drive_link)
 
-## Video of the App running on iOS:
 
-- [![YouTube Video](https://img.shields.io/badge/YouTube-instagram--clone--app-d22?logo=youtube&logoColor=d22)](https://youtu.be/llQH79EdmfU)
-
-## Screenshots
-
-<div align="center">
-  <img src="./assets/screenshots/LoginScreen.png" width="32%">
-  <img src="./assets/screenshots/HomeScreen.png" width="32%">
-  <img src="./assets/screenshots/PostsScreen.png" width="32%">
-  <img src="./assets/screenshots/SearchScreen.png" width="32%">
-  <img src="./assets/screenshots/NewPostScreen.png" width="32%">
-  <img src="./assets/screenshots/NewStoryScreen.png" width="32%">
-  <img src="./assets/screenshots/ReelsScreen.png" width="32%">
-  <img src="./assets/screenshots/ProfileScreen.png" width="32%">
-  <img src="./assets/screenshots/ShareQRModal.png" width="32%">
-  <img src="./assets/screenshots/DetailScreen.png" width="32%">
-  <img src="./assets/screenshots/CommentsModal.png" width="32%">
-  <img src="./assets/screenshots/FollowersScreen.png" width="32%">
-  <img src="./assets/screenshots/OptionsModal.png" width="32%">
-  <img src="./assets/screenshots/PictureModal.png" width="32%">
-</div>
 
 ## Instructions for Running on an Emulator:
 
